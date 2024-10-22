@@ -42,9 +42,9 @@ A solution to solve word search puzzles in a letter grid using efficient search 
 
 ## 📫 Contact
 
-![Developer Workspace](./images/developer_workspace.png)
-
 - **LinkedIn**: [Daniele](https://www.linkedin.com/in/daniele-miraglia)
 - **GitHub**: [Daniele410](https://github.com/Daniele410)
+
+  ![Developer Workspace](./images/developer_workspace.png)
 
 I am always open to new collaboration or networking opportunities. Feel free to reach out!
