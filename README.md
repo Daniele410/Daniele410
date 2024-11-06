@@ -37,9 +37,6 @@
   A full-stack web application allowing users to manage and customize car purchases. Developed with Spring Boot for the back-end and Angular for the front-end.  
   **Technologies**: Java, Spring Boot, Angular, TypeScript, MySQL, REST APIs, HTML, CSS, Docker, Maven.
 
-### Word Search Solver (JavaScript)
-A solution to solve word search puzzles in a letter grid using efficient search algorithms.
-
 ## 📫 Contact
 
 - **LinkedIn**: [Daniele](https://www.linkedin.com/in/daniele-miraglia)
