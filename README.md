@@ -41,7 +41,7 @@
 
 - **LinkedIn**: [Daniele](https://www.linkedin.com/in/daniele-miraglia)
 - **GitHub**: [Daniele410](https://github.com/Daniele410)
-- **CV**: [CUrriculumVitae](https://github.com/Daniele410/CV/blob/main/Daniele_Miraglia_CV.pdf)
+- **CV**: [MyCV](https://github.com/Daniele410/CV/blob/main/Daniele_Miraglia_CV.pdf)
 
   ![Developer Workspace](./images/developer_workspace.png)
 
